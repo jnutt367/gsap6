@@ -1,4 +1,4 @@
-gsap.to(".fish", { duration: 2, x: 200 });
+gsap.to(".fish", { duration: 2, x: 100 });
 
 gsap.to(".shark", { x: -200 });
 
