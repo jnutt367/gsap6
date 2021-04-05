@@ -1,5 +1,10 @@
 body {
-    background-image: radial-gradient(seagreen, skyblue);
+    background: skyblue;
+}
+
+.birds {
+    display: flex;
+    align-items: space-around;
 }
 
 img {
